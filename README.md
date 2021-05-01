@@ -10,6 +10,6 @@ Everytime you upload text,random font families and sizes are used for each post 
 
 # Screenshots
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/kizbu/master/screenshots/main.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/kizbu-service/master/screenshots/main.png)
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/kizbu/master/screenshots/hyperlink.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/kizbu-service/master/screenshots/hyperlink.png)
